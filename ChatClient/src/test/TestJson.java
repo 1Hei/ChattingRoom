@@ -12,4 +12,7 @@ public class TestJson {
 	public static void testAdd() {
 		System.out.println("add");
 	}
+	public static void testNewFunc() {
+		System.out.println("This is a new func");
+	}
 }
