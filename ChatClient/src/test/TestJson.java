@@ -7,6 +7,9 @@ import ui.LoginView;
 
 public class TestJson {
 	public static void main(String[] args) {
-		System.out.println("test");
+		testAdd();
+	}
+	public static void testAdd() {
+		System.out.println("add");
 	}
 }
