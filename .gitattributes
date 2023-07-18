@@ -1,1 +1,1 @@
-*.template eol=CRLF
+*.template  text    eol=CRLF
