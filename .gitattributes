@@ -1,2 +1,2 @@
 * text=auto
-*.template text eol=CRLF
+*.template eol=CRLF
